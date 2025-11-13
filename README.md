@@ -1,3 +1,7 @@
+![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge) 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
+![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-4.9.1-orange?style=for-the-badge&logo=html5&logoColor=white) 
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 1. Мой проект:
 🚲 Velo-Scraper: Сбор данных с каталога велосипедов
 
@@ -30,6 +34,11 @@
     ```bash
     pip install -r requirements.txt
     ```
+
+![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge) 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
+![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-4.9.1-orange?style=for-the-badge&logo=html5&logoColor=white) 
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 3. **Запустите скрипт:**
     ```bash
     python parser.py 
